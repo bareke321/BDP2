@@ -1,0 +1,2 @@
+bcp  AdventureWorksDW2019.dbo.CUSTOMERS_287097 format nul -T -t, -c -f  res.fmt 
+bcp  AdventureWorksDW2019.dbo.CUSTOMERS_287097 in CUSTOMERS_287097.csv  -S DESKTOP-ESI9JUB  -U DESKTOP-ESI9JUB\bar   -t"," -T  -f res.fmt

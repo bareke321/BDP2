@@ -1,0 +1,24 @@
+20210126123724 - Download - Succes
+20210126123724 - Extract - Succes
+		File has: 10008 lines
+20210126123724 - Process of removing empty lines - Succes
+		File has: 1 empty lines
+20210126123724 - Removing rows with incorrect number of columns - Succes
+		File has: 10 rows with incorect number of column
+20210126123724 - Removing duplicated lines - Succes
+		File has: 10 duplicates
+20210126123724 - Removing  quantity bigger than 100 - Succes
+	\File has: 5 rows with OrderQuality bigger than 100
+20210126123724 -Removing lines which are avaiable in old file - Succes
+		File has 7 common lines with  our file
+20210126123724 - Removing lines which have anything in SecretCode column - Succes
+		File has 13 rows where SecretCode contains data
+20210126123725 - Removing rows where name and surname do not have comma - Succes
+		Dowloaded file has 10 lines without comma between name and surname
+20210126123725 - Splitting column Customer_name to first and last name  - Succes
+20210126123746 - Creating table in db - Succes
+20210126123807 - Inserting data to db table - Succes
+20210126123828 - Updating table  - Succes
+20210126123849 - Export table to .csv file  - Succes
+20210126123849 - Zipping .csv file - Succes
+20210126123910 - Sending mail - Succes
